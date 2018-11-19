@@ -1,0 +1,22 @@
+- Section 1 (Intro)
+  - Installed Anachonda
+    desc: Data Science platform. Installs libaries and ides for ML development with Python 3.
+  - Python IDE Spider
+  - Installed R
+  - Installed RStudio IDE
+
+- Section 2 (Data Pre processing)
+  - superdatascience.com
+  - Python ibraries 
+    - numpy
+      desc: Maths for ML
+    - matplotlib
+      desc: Plot charts
+    - pandas
+      desc: Import manage datasets
+  - Handle Missing Data
+  - Categoricing Data
+    desc: 'make all countries to be represented as integers is an example. But its not numerically right these needs to be encoded. Remember the 1 0 0, 0 1 0, 0 0 1 example'
+  - Spliting data ot training and test sets
+  - Scaling data
+    desc: 'If different values/columns are at extemely differnt ranges like 1s & millions, it becomes harder to train a model. So one set of value will have to be scaled'
